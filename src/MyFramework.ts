@@ -32,7 +32,7 @@ class MyFramework {
                     listener.handleGETResponse(xhr.status, null);
                 }
             }
-        }
+        };
         xhr.open("GET", url, true);
         xhr.send(null);
     }

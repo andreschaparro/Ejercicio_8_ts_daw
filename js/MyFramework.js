@@ -11,7 +11,7 @@ class MyFramework {
     }
     /**
      * getElementByEvent: Busca un elemento del DOM por su Event
-     * @param evt : Event a buscar
+     * @param evt : Event a buscar0
      * @returns : Objeto HTMLElement encontrado
      */
     getElementByEvent(evt) {
